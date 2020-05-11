@@ -1,0 +1,11 @@
+{
+	"name": "dutils-random",
+	"description": "Various safer random functions",
+	"homepage": "https://github.com/d-utils/random",
+	"authors": [
+		"Fredrik Söderström"
+	],
+	"copyright": "Copyright © 2020, Fredrik Söderström",
+	"license": "MIT",
+	"targetType": "library"
+}
